@@ -1,0 +1,11 @@
+# Excel dosyaları (Güvenlik için)
+*.xlsx
+*.csv
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
